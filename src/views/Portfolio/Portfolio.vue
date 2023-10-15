@@ -84,7 +84,7 @@ export default {
             "SCSS",
             "HTML"
           ],
-          poster: "https://yolo-cosmetics.com/wp-content/webp-express/webp-images/uploads/2021/12/Webp.net-resizeimage11.png.webp"
+          poster: "data:image/png;base64,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"
         },
         {
           title: "Raya Chat Agent",
@@ -106,7 +106,7 @@ export default {
             "SCSS",
             "HTML"
           ],
-          poster: "https://alkuttab-qc.s3.amazonaws.com/profile_pictures/logo_1_1.png"
+          poster: "https://media.licdn.com/dms/image/C4E0BAQF_Wm4-1K3aEg/company-logo_200_200/0/1644719992763?e=2147483647&v=beta&t=aNezMhH6Sr2jsCQwsxxTmsSXC0K7HUEbD6kHJSgPXUg"
         },
         {
           title: "Wrapup",
@@ -150,7 +150,7 @@ export default {
             "SCSS",
             "HTML"
           ],
-          poster: "https://retailcodeme.com/wp-content/themes/rc/images/logo.png"
+          poster: "https://media.licdn.com/dms/image/C560BAQH598LTDXYTlA/company-logo_200_200/0/1519862778474?e=2147483647&v=beta&t=cHzSSn24nb0C3JJcWCKzYJOO3UJTQDgCW-qAn35d_CE"
         },
         {
           title: "CMCServe compliance engine",
