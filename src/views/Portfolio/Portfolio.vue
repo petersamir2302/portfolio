@@ -84,18 +84,7 @@ export default {
             "SCSS",
             "HTML"
           ],
-          poster: "https://scontent.fcai15-1.fna.fbcdn.net/v/t39.30808-6/271639107_1757123021151889_5811921928920992909_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=DPasM3B3ckIAX8t52lr&_nc_ht=scontent.fcai15-1.fna&oh=00_AfBg8p9bMhGC24-EvNE11udu0Vz7Jky15MILVLmanovQMA&oe=6501A9EF"
-        },
-        {
-          title: "Wrapup",
-          demo: "https://efghermesresearch.com/wrapup/highlights.php",
-          tech: [
-            "PHP",
-            "JavaScript",
-            "SCSS",
-            "HTML"
-          ],
-          poster: "https://efghermesresearch.com/wrapup/assets/layouts/layout5/img/logo.png"
+          poster: "https://yolo-cosmetics.com/wp-content/webp-express/webp-images/uploads/2021/12/Webp.net-resizeimage11.png.webp"
         },
         {
           title: "Raya Chat Agent",
@@ -107,6 +96,28 @@ export default {
             "HTML"
           ],
           poster: "https://notchnco.com/images/RAYA22.png"
+        },
+        {
+          title: "Alkuttab Educational App",
+          demo: "https://alkuttab.io/",
+          tech: [
+            "VueJS",
+            "JavaScript",
+            "SCSS",
+            "HTML"
+          ],
+          poster: "https://alkuttab-qc.s3.amazonaws.com/profile_pictures/logo_1_1.png"
+        },
+        {
+          title: "Wrapup",
+          demo: "https://efghermesresearch.com/wrapup/highlights.php",
+          tech: [
+            "PHP",
+            "JavaScript",
+            "SCSS",
+            "HTML"
+          ],
+          poster: "https://efghermesresearch.com/wrapup/assets/layouts/layout5/img/logo.png"
         },
         {
           title: "Promote Energy Website",
@@ -139,7 +150,7 @@ export default {
             "SCSS",
             "HTML"
           ],
-          poster: "https://scontent.fcai15-1.fna.fbcdn.net/v/t39.30808-6/302208612_418594340366489_1149431871006829960_n.png?_nc_cat=101&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=ynjVWaLLtqYAX_ZZMG5&_nc_ht=scontent.fcai15-1.fna&oh=00_AfAmp4W_Ni6Xed_U72jmGwVP7oOfSKR5U5UZhgdH-oLEmw&oe=6502B681"
+          poster: "https://retailcodeme.com/wp-content/themes/rc/images/logo.png"
         },
         {
           title: "CMCServe compliance engine",
